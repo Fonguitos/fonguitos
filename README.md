@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas na Universidade de Fortaleza.
-- 📘 Atualmente estudando Full Stack Web
+- 📘 Atualmente estudando QA, Python e Full Stack Web
 - 📫 E-mail para contato: marcelofy@outlook.com
 
 
